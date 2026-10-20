@@ -31,6 +31,12 @@ Designed and built as a personal engineering portfolio project demonstrating har
 
 ## Circuit Wiring Schematic
 
+## Hardware & Telemetry Visuals
+
+![Breadboard Wiring](docs/breadboard-wiring.png)
+![Arduino Setup](docs/arduino-board.png)
+![Serial Monitor Telemetry](docs/serial-output.png)
+
 ### BME280 Connection (I2C)
 > **CRITICAL:** The BME280 logic and power require **$3.3\text{V}$**. Connecting to $5\text{V}$ can damage the sensor module.
 
