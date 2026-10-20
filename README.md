@@ -33,7 +33,7 @@ Designed and built as a personal engineering portfolio project demonstrating har
 
 ## Hardware & Telemetry Visuals
 
-![Breadboard Wiring](docs/breadboard-wiring-top.png)
+![Breadboard Wiring](docs/Breadboard-wiring-top.png)
 ![Arduino Setup](docs/Arduino-wiring.png)
 ![Serial Monitor Telemetry](docs/Serial-monitor-Output.png)
 
